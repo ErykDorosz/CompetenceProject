@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kategorie">
+        <item>Nabiał</item>
+        <item>Pieczywo</item>
+        <item>Mięso</item>
+        <item>Napoje</item>
+        <item>Słodycze</item>
+        <item>Sosy i dodatki</item>
+        <item>Kawy herbaty kakao</item>
+        <item>Produkty sypkie</item>
+        <item>Lody mrożonki</item>
+        <item>Alkohole</item>
+        <item>Przekąski</item>
+    </string-array>
+
+    <string-array name="Nabiał">
+        <item>Jogurt</item>
+        <item>Mleko</item>
+        <item>Ser</item>
+        <item>Kefir</item>
+        <item>Śmietana</item>
+        <item>Maślanka</item>
+    </string-array>
+
+    <string-array name="Pieczywo">
+        <item>Chleb</item>
+        <item>Kajzerka</item>
+        <item>Bagietka</item>
+        <item>Rogalik</item>
+        <item>Chleb tostowy</item>
+    </string-array>
+
+    <string-array name="Mięso">
+        <item>Szynka</item>
+        <item>Schab</item>
+        <item>Parówki</item>
+        <item>Kabanosy</item>
+        <item>Kiełbasa</item>
+    </string-array>
+
+    <string-array name="Napoje">
+        <item>Woda</item>
+        <item>Sok</item>
+        <item>Nektary</item>
+        <item>Napoje gazowane</item>
+        <item>Energetyki</item>
+        <item>Napoje izotoniczne</item>
+        <item>Napoje bezalkoholowe</item>
+    </string-array>
+
+    <string-array name="Słodycze">
+        <item>Czekolada</item>
+        <item>Ciastka</item>
+        <item>Cukierki</item>
+        <item>Lizak</item>
+        <item>Batonik</item>
+    </string-array>
+
+    <string-array name="Sosy_i_dodatki">
+        <item>Majonez</item>
+        <item>Keczup</item>
+        <item>Sos czosnkowy</item>
+        <item>Sos tysiąca wysp</item>
+        <item>Chrzan</item>
+        <item>Musztarda</item>
+    </string-array>
+
+    <string-array name="Kawy_herbaty_kakao">
+        <item>Kakao</item>
+        <item>Herbata</item>
+        <item>Kawa</item>
+        <item>Czekolada pitna</item>
+    </string-array>
+
+    <string-array name="Produkty_sypkie">
+        <item>Kasza</item>
+        <item>Makaron</item>
+        <item>Ryż</item>
+        <item>Płatki śniadaniowe</item>
+        <item>Mąka</item>
+    </string-array>
+
+    <string-array name="Lody_mrożonki">
+        <item>Lody</item>
+        <item>Mięso</item>
+        <item>Ryby</item>
+        <item>Pizza</item>
+        <item>Zapiekanka</item>
+        <item>Mrożone warzywa</item>
+    </string-array>
+
+    <string-array name="Alkohole">
+        <item>Wino</item>
+        <item>Piwo</item>
+        <item>Wódka</item>
+        <item>Cydr</item>
+        <item>Nalewki</item>
+        <item>Rum</item>
+        <item>Szampan</item>
+    </string-array>
+
+    <string-array name="Przekąski">
+        <item>Czipsy</item>
+        <item>Paluszki</item>
+        <item>Orzeszki</item>
+        <item>Precle</item>
+    </string-array>
+
+    <string-array name="Database">
+        <item>Nabiał Jogurt Jogobella 32 12/04/2021</item>
+        <item>Nabiał Jogurt Makarena 1 13/01/2022</item>
+        <item>Nabiał Sok Makarena 4 12/04/2021</item>
+        <item>Nabiał Mleko MElo 4 12/04/2021</item>
+
+
+
+
+
+
+
+
+    </string-array>
+
+</resources>
